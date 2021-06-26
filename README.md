@@ -1,2 +1,2 @@
-# Pachana-Paudel.github.io
+# Rachana-Paudel.github.io
 responsive webpage layout
